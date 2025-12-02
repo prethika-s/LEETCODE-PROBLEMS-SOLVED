@@ -1,42 +1,59 @@
+/**
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode() {}
+ *     ListNode(int val) { this.val = val; }
+ *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+ * }
+ */
 class Solution {
-    public ListNode reverse(ListNode head){
-        ListNode curr = head;
+    public static ListNode reverse(ListNode first){
         ListNode prev = null;
-        ListNode temp;
-        while (curr != null) {
-            temp = curr.next;
+        ListNode curr = first;
+        while(curr!=null){
+            ListNode nextNode = curr.next;
             curr.next = prev;
             prev = curr;
-            curr = temp;
+            curr = nextNode;
         }
         return prev;
     }
     public ListNode reverseKGroup(ListNode head, int k) {
-        if (k <= 1 || head == null) return head;
-        ListNode first = head;      // start of current block
-        ListNode last = head;       // runner to find k-th node
-        ListNode prevGroupTail = null;
-        int count = 1;
-        while (last != null) {
-            if (count % k == 0) {
-                ListNode nextBlockHead = last.next; 
-                last.next = null;   
-                ListNode reversedHead = reverse(first);
-                if (prevGroupTail != null) {
-                    prevGroupTail.next = reversedHead;
-                } else {
-                    head = reversedHead;
-                }
-                prevGroupTail = first;
-                first = last = nextBlockHead;
-            } else {
-                last = last.next;
+        ListNode temp = head;
+        ListNode tempHead = head;
+        ListNode nextHead=head;
+        ListNode dummyHead=head;
+        ListNode tailBeforeReverse, headBeforeReverse, headAfterReverse, tailAfterReverse;
+        int itr = 1;
+        while(temp!=null){
+            for(int i=0; i<k-1 && temp!=null; i++){
+                temp=temp.next;
             }
-            count++;
+            if(temp==null) break;
+            tailBeforeReverse = temp;
+            headBeforeReverse = tempHead;
+            nextHead = tailBeforeReverse.next;
+            tailBeforeReverse.next = null;
+            headAfterReverse = reverse(headBeforeReverse);
+            tailAfterReverse = headBeforeReverse;
+            tailAfterReverse.next = nextHead;
+            if(itr==1) dummyHead = headAfterReverse;
+            else {
+                // reuse tempHead to find the previous group's tail
+                tempHead = dummyHead;
+                while (tempHead != null && tempHead.next != headBeforeReverse) {
+                    tempHead = tempHead.next;
+                }
+                if (tempHead != null) {
+                    tempHead.next = headAfterReverse;   // link prev group to this reversed group
+                }
+            }
+            temp = tailAfterReverse.next;
+            tempHead = temp;
+            itr++;
         }
-        if (prevGroupTail != null) {
-            prevGroupTail.next = first;
-        }
-        return head;
+        return dummyHead;
     }
 }
