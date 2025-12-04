@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0142-linked-list-cycle-ii) |
@@ -103,4 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0994-rotting-oranges) |
+## String
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
