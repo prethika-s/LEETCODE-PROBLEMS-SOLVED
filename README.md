@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0455-assign-cookies](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0645-set-mismatch) |
 | [0994-rotting-oranges](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0994-rotting-oranges) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0645-set-mismatch) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0234-palindrome-linked-list) |
+| [0455-assign-cookies](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Stack
@@ -133,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
