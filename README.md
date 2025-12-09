@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0160-intersection-of-two-linked-lists) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0645-set-mismatch) |
+| [0895-maximum-frequency-stack](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0895-maximum-frequency-stack) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Bit Manipulation
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0234-palindrome-linked-list) |
+| [0895-maximum-frequency-stack](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0895-maximum-frequency-stack) |
 ## Tree
 |  |
 | ------- |
@@ -142,4 +144,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0455-assign-cookies) |
+## Design
+|  |
+| ------- |
+| [0895-maximum-frequency-stack](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0895-maximum-frequency-stack) |
+## Ordered Set
+|  |
+| ------- |
+| [0895-maximum-frequency-stack](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0895-maximum-frequency-stack) |
 <!---LeetCode Topics End-->
