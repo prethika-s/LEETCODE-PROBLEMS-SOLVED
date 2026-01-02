@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0135-candy](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0135-candy) |
 | [0312-burst-balloons](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0312-burst-balloons) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0455-assign-cookies) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0455-assign-cookies) |
 | [2449-minimum-number-of-operations-to-make-arrays-similar](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/2449-minimum-number-of-operations-to-make-arrays-similar) |
 ## Design
