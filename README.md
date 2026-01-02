@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0145-binary-tree-postorder-traversal) |
@@ -135,11 +136,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0008-string-to-integer-atoi) |
+| [0032-longest-valid-parentheses](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0032-longest-valid-parentheses) |
 | [3606-coupon-code-validator](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/3606-coupon-code-validator) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0032-longest-valid-parentheses) |
 | [0312-burst-balloons](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0312-burst-balloons) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
