@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0073-set-matrix-zeroes) |
 | [0135-candy](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0135-candy) |
 | [0312-burst-balloons](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0312-burst-balloons) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0073-set-matrix-zeroes) |
 | [0994-rotting-oranges](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0994-rotting-oranges) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0054-spiral-matrix) |
 | [3433-count-mentions-per-user](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/3433-count-mentions-per-user) |
 ## Memoization
 |  |
