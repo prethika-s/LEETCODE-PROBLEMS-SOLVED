@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0048-rotate-image) |
 | [0135-candy](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0135-candy) |
 | [0312-burst-balloons](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0312-burst-balloons) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0069-sqrtx) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/3433-count-mentions-per-user) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0048-rotate-image) |
 | [0994-rotting-oranges](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0994-rotting-oranges) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 ## String
