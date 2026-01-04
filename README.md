@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0160-intersection-of-two-linked-lists) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0645-set-mismatch) |
+| [0771-jewels-and-stones](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0771-jewels-and-stones) |
 | [0895-maximum-frequency-stack](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0895-maximum-frequency-stack) |
 | [0992-subarrays-with-k-different-integers](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0992-subarrays-with-k-different-integers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0008-string-to-integer-atoi) |
 | [0032-longest-valid-parentheses](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0032-longest-valid-parentheses) |
+| [0771-jewels-and-stones](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0771-jewels-and-stones) |
 | [3606-coupon-code-validator](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/3606-coupon-code-validator) |
 ## Dynamic Programming
 |  |
