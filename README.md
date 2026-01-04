@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1512-number-of-good-pairs](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1512-number-of-good-pairs) |
 | [2449-minimum-number-of-operations-to-make-arrays-similar](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/2449-minimum-number-of-operations-to-make-arrays-similar) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/3433-count-mentions-per-user) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0895-maximum-frequency-stack](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0895-maximum-frequency-stack) |
 | [0992-subarrays-with-k-different-integers](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0992-subarrays-with-k-different-integers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1512-number-of-good-pairs](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1512-number-of-good-pairs) |
 | [3606-coupon-code-validator](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/3606-coupon-code-validator) |
 ## Bit Manipulation
 |  |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0992-subarrays-with-k-different-integers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1512-number-of-good-pairs](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1512-number-of-good-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0069-sqrtx) |
+| [1512-number-of-good-pairs](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1512-number-of-good-pairs) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/3433-count-mentions-per-user) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
