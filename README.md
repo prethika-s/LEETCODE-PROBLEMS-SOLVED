@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1512-number-of-good-pairs](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1512-number-of-good-pairs) |
+| [1816-truncate-sentence](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1816-truncate-sentence) |
 | [2449-minimum-number-of-operations-to-make-arrays-similar](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/2449-minimum-number-of-operations-to-make-arrays-similar) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/3433-count-mentions-per-user) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1108-defanging-an-ip-address) |
 | [1678-goal-parser-interpretation](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1678-goal-parser-interpretation) |
+| [1816-truncate-sentence](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1859-sorting-the-sentence) |
 | [3606-coupon-code-validator](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/3606-coupon-code-validator) |
