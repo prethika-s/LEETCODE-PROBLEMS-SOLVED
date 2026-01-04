@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0073-set-matrix-zeroes) |
 | [0135-candy](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0135-candy) |
 | [0217-contains-duplicate](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0217-contains-duplicate) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0069-sqrtx) |
 | [1323-maximum-69-number](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
