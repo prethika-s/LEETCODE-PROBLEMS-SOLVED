@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0069-sqrtx) |
 | [1512-number-of-good-pairs](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1512-number-of-good-pairs) |
+| [1688-count-of-matches-in-tournament](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1688-count-of-matches-in-tournament) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/3433-count-mentions-per-user) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0054-spiral-matrix) |
+| [1688-count-of-matches-in-tournament](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1688-count-of-matches-in-tournament) |
 | [3433-count-mentions-per-user](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/3433-count-mentions-per-user) |
 ## Memoization
 |  |
