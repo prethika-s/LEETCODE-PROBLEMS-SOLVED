@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0135-candy](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0217-contains-duplicate](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0217-contains-duplicate) |
 | [0312-burst-balloons](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0312-burst-balloons) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -270,5 +271,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0704-binary-search](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
