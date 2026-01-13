@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0875-koko-eating-bananas) |
 | [0992-subarrays-with-k-different-integers](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0994-rotting-oranges) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -286,4 +287,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0875-koko-eating-bananas) |
 <!---LeetCode Topics End-->
