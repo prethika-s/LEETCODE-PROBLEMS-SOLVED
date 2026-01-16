@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0135-candy](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0074-search-a-2d-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0407-trapping-rain-water-ii) |
 | [0994-rotting-oranges](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0994-rotting-oranges) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
