@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1512-number-of-good-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1539-kth-missing-positive-number) |
 | [1816-truncate-sentence](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1816-truncate-sentence) |
+| [1901-find-a-peak-element-ii](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1901-find-a-peak-element-ii) |
 | [2449-minimum-number-of-operations-to-make-arrays-similar](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/2449-minimum-number-of-operations-to-make-arrays-similar) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/3433-count-mentions-per-user) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0407-trapping-rain-water-ii) |
 | [0994-rotting-oranges](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0994-rotting-oranges) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
+| [1901-find-a-peak-element-ii](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1901-find-a-peak-element-ii) |
 ## String
 |  |
 | ------- |
@@ -299,4 +301,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1539-kth-missing-positive-number) |
+| [1901-find-a-peak-element-ii](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1901-find-a-peak-element-ii) |
 <!---LeetCode Topics End-->
