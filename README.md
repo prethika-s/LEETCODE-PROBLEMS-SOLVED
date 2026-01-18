@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0234-palindrome-linked-list) |
 ## Math
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0069-sqrtx) |
 | [1323-maximum-69-number](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1323-maximum-69-number) |
