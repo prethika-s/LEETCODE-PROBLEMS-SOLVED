@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0035-search-insert-position) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0018-4sum) |
 | [0217-contains-duplicate](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0645-set-mismatch) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0142-linked-list-cycle-ii) |
