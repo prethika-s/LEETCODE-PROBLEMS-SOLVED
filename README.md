@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0234-palindrome-linked-list) |
+| [1922-count-good-numbers](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1922-count-good-numbers) |
 ## Math
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1512-number-of-good-pairs) |
 | [1688-count-of-matches-in-tournament](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1688-count-of-matches-in-tournament) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [1922-count-good-numbers](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1922-count-good-numbers) |
 | [2469-convert-the-temperature](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/2469-convert-the-temperature) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/3433-count-mentions-per-user) |
