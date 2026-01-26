@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0875-koko-eating-bananas) |
+| [0983-minimum-cost-for-tickets](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0983-minimum-cost-for-tickets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0410-split-array-largest-sum) |
+| [0983-minimum-cost-for-tickets](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0983-minimum-cost-for-tickets) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1458-max-dot-product-of-two-subsequences) |
