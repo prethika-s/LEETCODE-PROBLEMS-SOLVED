@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3606-coupon-code-validator](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/3606-coupon-code-validator) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Hash Table
 |  |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0994-rotting-oranges) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1901-find-a-peak-element-ii](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1901-find-a-peak-element-ii) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## String
 |  |
 | ------- |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Prefix Sum
 |  |
 | ------- |
