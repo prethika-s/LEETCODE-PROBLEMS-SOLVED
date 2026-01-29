@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0141-linked-list-cycle) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0066-plus-one) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0012-integer-to-roman) |
 | [0032-longest-valid-parentheses](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0032-longest-valid-parentheses) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0771-jewels-and-stones](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0771-jewels-and-stones) |
