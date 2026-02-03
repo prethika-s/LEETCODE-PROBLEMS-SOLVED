@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0070-climbing-stairs) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0032-longest-valid-parentheses) |
+| [0062-unique-paths](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0213-house-robber-ii) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0062-unique-paths) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Simulation
 |  |
