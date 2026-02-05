@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1512-number-of-good-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1539-kth-missing-positive-number) |
 | [1816-truncate-sentence](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1816-truncate-sentence) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1901-find-a-peak-element-ii](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1901-find-a-peak-element-ii) |
 | [2449-minimum-number-of-operations-to-make-arrays-similar](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/2449-minimum-number-of-operations-to-make-arrays-similar) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0645-set-mismatch) |
 | [0784-letter-case-permutation](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0784-letter-case-permutation) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Sorting
 |  |
 | ------- |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1512-number-of-good-pairs) |
 | [1688-count-of-matches-in-tournament](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1688-count-of-matches-in-tournament) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1922-count-good-numbers](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1922-count-good-numbers) |
 | [2469-convert-the-temperature](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/2469-convert-the-temperature) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0062-unique-paths) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Simulation
 |  |
@@ -357,4 +361,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0090-subsets-ii) |
 | [0784-letter-case-permutation](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0784-letter-case-permutation) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
