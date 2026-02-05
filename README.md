@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0090-subsets-ii) |
 | [0645-set-mismatch](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0645-set-mismatch) |
+| [0784-letter-case-permutation](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0784-letter-case-permutation) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Sorting
 |  |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0032-longest-valid-parentheses) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0771-jewels-and-stones](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0771-jewels-and-stones) |
+| [0784-letter-case-permutation](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0784-letter-case-permutation) |
 | [1108-defanging-an-ip-address](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1108-defanging-an-ip-address) |
 | [1678-goal-parser-interpretation](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1678-goal-parser-interpretation) |
 | [1816-truncate-sentence](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1816-truncate-sentence) |
@@ -354,4 +356,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0090-subsets-ii) |
+| [0784-letter-case-permutation](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0784-letter-case-permutation) |
 <!---LeetCode Topics End-->
