@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0135-candy](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0078-subsets) |
 | [0645-set-mismatch](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0645-set-mismatch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Sorting
@@ -345,4 +347,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1901-find-a-peak-element-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
