@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0032-longest-valid-parentheses) |
+| [0093-restore-ip-addresses](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0131-palindrome-partitioning) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0771-jewels-and-stones](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0771-jewels-and-stones) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0090-subsets-ii) |
+| [0093-restore-ip-addresses](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0216-combination-sum-iii) |
 | [0784-letter-case-permutation](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0784-letter-case-permutation) |
