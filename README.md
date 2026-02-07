@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0012-integer-to-roman) |
 | [0032-longest-valid-parentheses](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0032-longest-valid-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0131-palindrome-partitioning) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0771-jewels-and-stones](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0771-jewels-and-stones) |
 | [0784-letter-case-permutation](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0784-letter-case-permutation) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0070-climbing-stairs) |
+| [0131-palindrome-partitioning](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0213-house-robber-ii) |
 | [0312-burst-balloons](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0312-burst-balloons) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0216-combination-sum-iii) |
 | [0784-letter-case-permutation](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0784-letter-case-permutation) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1863-sum-of-all-subset-xor-totals) |
