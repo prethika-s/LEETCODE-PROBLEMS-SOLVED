@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0090-subsets-ii) |
 | [0645-set-mismatch](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0645-set-mismatch) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0062-unique-paths) |
