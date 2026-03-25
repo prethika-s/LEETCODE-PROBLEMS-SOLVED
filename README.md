@@ -370,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0162-find-peak-element) |
+| [0278-first-bad-version](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0278-first-bad-version) |
 | [0410-split-array-largest-sum](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0704-binary-search) |
@@ -396,4 +397,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
