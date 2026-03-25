@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1248-count-number-of-nice-subarrays](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0771-jewels-and-stones) |
 | [0895-maximum-frequency-stack](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0895-maximum-frequency-stack) |
 | [0992-subarrays-with-k-different-integers](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0992-subarrays-with-k-different-integers) |
+| [1248-count-number-of-nice-subarrays](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1248-count-number-of-nice-subarrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0070-climbing-stairs) |
+| [1248-count-number-of-nice-subarrays](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1248-count-number-of-nice-subarrays) |
 | [1323-maximum-69-number](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1512-number-of-good-pairs) |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0410-split-array-largest-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1248-count-number-of-nice-subarrays) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -287,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0992-subarrays-with-k-different-integers) |
+| [1248-count-number-of-nice-subarrays](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1248-count-number-of-nice-subarrays) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Monotonic Queue
