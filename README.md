@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0875-koko-eating-bananas) |
+| [0881-boats-to-save-people](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0881-boats-to-save-people) |
 | [0930-binary-subarrays-with-sum](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0930-binary-subarrays-with-sum) |
 | [0983-minimum-cost-for-tickets](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0983-minimum-cost-for-tickets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0992-subarrays-with-k-different-integers) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0645-set-mismatch) |
+| [0881-boats-to-save-people](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0881-boats-to-save-people) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1552-magnetic-force-between-two-balls](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1552-magnetic-force-between-two-balls) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0876-middle-of-the-linked-list](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0876-middle-of-the-linked-list) |
+| [0881-boats-to-save-people](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0881-boats-to-save-people) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Stack
 |  |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0455-assign-cookies) |
+| [0881-boats-to-save-people](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0881-boats-to-save-people) |
 | [1323-maximum-69-number](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1323-maximum-69-number) |
 | [2449-minimum-number-of-operations-to-make-arrays-similar](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/2449-minimum-number-of-operations-to-make-arrays-similar) |
 ## Design
