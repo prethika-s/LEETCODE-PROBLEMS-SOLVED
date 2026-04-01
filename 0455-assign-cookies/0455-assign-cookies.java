@@ -1,20 +1,20 @@
 class Solution {
-    public int findContentChildren(int[] students, int[] cookies) {
+    public int findContentChildren(int[] g, int[] s) {
+        Arrays.sort(g);
+        Arrays.sort(s);
         int count = 0;
-        Arrays.sort(students);
-        Arrays.sort(cookies);
-        int left = 0;
-        int right = 0;
-        while(right!=students.length && left!=cookies.length){
-            int greedFactor = students[right];
-            int cookie = cookies[left];
-            if(cookie>=greedFactor){
+        int greed = 0;
+        int cookie = 0;
+        while(greed<g.length && cookie<s.length){
+            int gr = g[greed];
+            int co = s[cookie];
+            if(co>=gr){
                 count++;
-                left++;
-                right++;
+                greed++;
+                cookie++;
             }
             else{
-                left++;
+                cookie++;
             }
         }
         return count;
