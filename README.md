@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/3606-coupon-code-validator) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Hash Table
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2449-minimum-number-of-operations-to-make-arrays-similar](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/2449-minimum-number-of-operations-to-make-arrays-similar) |
 | [3433-count-mentions-per-user](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/3433-count-mentions-per-user) |
 | [3606-coupon-code-validator](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/3606-coupon-code-validator) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Counting Sort
 |  |
 | ------- |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-max-dot-product-of-two-subsequences](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -391,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1552-magnetic-force-between-two-balls) |
 | [1901-find-a-peak-element-ii](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1901-find-a-peak-element-ii) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Backtracking
 |  |
 | ------- |
