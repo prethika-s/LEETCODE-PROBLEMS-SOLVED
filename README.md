@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0018-4sum) |
 | [0217-contains-duplicate](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0217-contains-duplicate) |
+| [0295-find-median-from-data-stream](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0881-boats-to-save-people) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0234-palindrome-linked-list) |
+| [0295-find-median-from-data-stream](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0876-middle-of-the-linked-list](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0876-middle-of-the-linked-list) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0295-find-median-from-data-stream) |
 | [0895-maximum-frequency-stack](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0895-maximum-frequency-stack) |
 | [1206-design-skiplist](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1206-design-skiplist) |
 ## Ordered Set
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0023-merge-k-sorted-lists) |
+| [0295-find-median-from-data-stream](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0295-find-median-from-data-stream) |
 | [0407-trapping-rain-water-ii](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0407-trapping-rain-water-ii) |
 ## Merge Sort
 |  |
@@ -420,4 +424,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0278-first-bad-version) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
