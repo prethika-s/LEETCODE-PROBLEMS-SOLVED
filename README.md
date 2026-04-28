@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0881-boats-to-save-people) |
+| [0904-fruit-into-baskets](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0930-binary-subarrays-with-sum) |
 | [0983-minimum-cost-for-tickets](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0983-minimum-cost-for-tickets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0992-subarrays-with-k-different-integers) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0771-jewels-and-stones) |
 | [0895-maximum-frequency-stack](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0895-maximum-frequency-stack) |
+| [0904-fruit-into-baskets](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1248-count-number-of-nice-subarrays) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0904-fruit-into-baskets](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/prethika-s/LEETCODE-PROBLEMS-SOLVED/tree/master/1248-count-number-of-nice-subarrays) |
